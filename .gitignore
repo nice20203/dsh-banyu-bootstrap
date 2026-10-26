@@ -1,0 +1,10 @@
+# 数据文件（绝不入库）
+*.db
+*.zstd
+*.jsonl
+*.log
+data/
+boot.log
+*.png
+__pycache__/
+node_modules/
